@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "67bd20152321416a6c939980",
+  "owner": "whnvcvtrg",
+  "repo": "page-0e119808cf21096a83c214c3",
+  "title": "机场榜单",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0e119808cf21096a83c214c3",
+      "a": "机场榜单",
+      "b": "",
+      "entity": "机场榜单",
+      "brand": "机场榜单",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1d9233891c34ab416414b61f3727a4f19ed18dfb1116537f251e1521e31c35d6",
+      "content": {
+        "keyword1": "机场榜单",
+        "keyword2": "",
+        "primary_entity": "机场榜单",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场榜单提供专业机场订阅和VPN加速器客户端下载服务，多种套餐任选：基础版¥15/月、旗舰版支持5台设备、团队版企业定制。快来体验稳定高速网络加速！",
+          "AI_DESCRIPTION": "机场榜单提供专业机场订阅和VPN加速器客户端下载服务，多种套餐任选：基础版¥15/月、旗舰版支持5台设备、团队版企业定制。快来体验稳定高速网络加速！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#f8f5f0;color:#333;line-height:1.6}.header{background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.05);position:sticky;top:0;z-index:10}.header nav{display:flex;justify-content:space-between;align-items:center;padding:1rem 2rem}.header .logo{font-size:1.5rem;font-weight:700;color:#e07a5f}.container{max-width:1200px;margin:0 auto;padding:0 1rem}.hero{text-align:center;padding:3rem 1rem;background:linear-gradient(to bottom,#fff,#f8f5f0);border-radius:12px;margin-bottom:2rem}.hero h1{font-size:2.8rem;color:#e07a5f;margin-bottom:1rem}.hero p{font-size:1.2rem;color:#555;max-width:700px;margin:0 auto}.plan-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:3rem}.plan-card{background:#fff;border-radius:12px;box-shadow:0 4px 15px rgba(0,0,0,.06);overflow:hidden}.plan-card.featured{border:2px solid #e07a5f}.plan-card h3{font-size:1.4rem;padding:1rem;text-align:center;color:#fff}.plan-card.basic h3{background:#e07a5f}.plan-card.flagship h3{background:#e07a5f}.plan-card.team h3{background:#e07a5f}.plan-card .price{font-size:1.8rem;font-weight:700;padding:0 1rem;text-align:center;color:#333}.plan-card .annual{font-size:0.95rem;color:#666;margin-top:0.5rem}.plan-card ul{padding:1rem 1.5rem 1.5rem;list-style:none}.plan-card li{margin:0.75rem 0;padding-left:1.25rem;position:relative}.plan-card li:before{content:\"●\";color:#e07a5f;position:absolute;left:0}.faq{margin-bottom:2rem}.faq summary{font-size:1.25rem;font-weight:600;cursor:pointer;padding:1rem;background:#fff;border:1px solid #eee;border-radius:8px;margin-bottom:0.5rem;box-shadow:0 2px 4px rgba(0,0,0,.03)}.faq summary:hover{background:#f8f5f0}.faq .answer{padding:1rem 1.5rem;background:#fff;border:1px solid #eee;border-radius:8px;margin-bottom:1rem;color:#555}.footer{background:#333;color:#ddd;padding:2rem 0;text-align:center;font-size:0.9rem}.footer a{color:#e07a5f}.btn{display:inline-block;background:#e07a5f;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:600;margin-top:1rem;transition:opacity .3s}.btn:hover{opacity:0.9}</style><header class=\"header\"><nav class=\"container\"><div class=\"logo\">机场榜单</div><div>导航链接</div></nav></header><main class=\"container\"><section class=\"hero\"><h1>机场榜单</h1><p>专业机场订阅与VPN加速器客户端下载平台，多种套餐任您选择，保障极速网络体验。</p><a href=\"#plans\" class=\"btn\">立即查看套餐</a></section><section id=\"plans\" class=\"plan-grid\"><div class=\"plan-card basic\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月100GB极速流量</li><li>支持3台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan-card flagship\"><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月300GB极速流量</li><li>支持5台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC专线游戏加速优化</li><li>7x24优先工单支持</li></ul></div><div class=\"plan-card team\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月1000GB极速流量</li><li>支持20台设备同时在线</li><li>VIP专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></section><section><h2>使用场景</h2><p>机场榜单服务覆盖日常办公、在线娱乐、跨境购物及游戏加速等多场景。无论您是需要稳定线路解锁Netflix、Disney+，还是需要游戏加速降低延迟，均可通过官方客户端轻松连接优质节点，享受无障碍网络体验。</p></section><section><h2>操作说明</h2><p>1. 访问官网选择套餐并完成支付。<br>2. 登录客户端获取订阅链接。<br>3. 导入客户端配置信息。<br>4. 连接节点即可使用，支持多设备同步。</p></section><section class=\"faq\"><details><summary>什么是机场榜单？</summary><div class=\"answer\">机场榜单是专业的机场订阅与VPN加速器服务平台，提供多样化套餐和高质量客户端下载，帮助用户获得稳定、安全的网络加速体验。</div></details><details><summary>如何选择适合的套餐？</summary><div class=\"answer\">基础版适合个人轻度使用，旗舰版适合需要多设备和流媒体解锁的用户，团队版则适合企业级需求。建议根据流量需求和在线设备数量决定。</div></details><details><summary>支持哪些设备？</summary><div class=\"answer\">所有套餐均支持Windows、Mac、iOS和Android客户端，同时支持3台至20台设备同时在线连接。</div></details><details><summary>如何获取官方下载？</summary><div class=\"answer\">请访问官网下载中心或客户端商店，下载经过验证的最新版本，避免使用第三方来源。</div></details><details><summary>支付方式支持哪些？</summary><div class=\"answer\">支持支付宝、微信支付、银行卡及国际信用卡等多种方式，支付后立即生效。</div></details></section><section><h2>常见问题</h2><div class=\"faq\"><details><summary>机场榜单的流量如何计算？</summary><div class=\"answer\">每月流量在套餐内清零，超出部分将根据剩余额度或更高阶套餐续费。</div></details><details><summary>是否支持Netflix等流媒体解锁？</summary><div class=\"answer\">旗舰版及以上套餐提供全节点原生解锁，基础版支持基础解锁。</div></details><details><summary>如何解决连接问题？</summary><div class=\"answer\">优先使用官方客户端切换节点，或通过7x24工单获取技术支持。</div></details><details><summary>年付套餐有何优势？</summary><div class=\"answer\">年付仅需套餐价格的80%左右，节省超过20%的费用。</div></details><details><summary>支持企业定制服务吗？</summary><div class=\"answer\">团队版提供专属客户经理和企业定制路由，满足大规模需求。</div></details></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"footer\"><p>© 机场榜单 2024 | <a href=\"#\">官网</a> | <a href=\"#\">订阅指南</a></p></footer>",
+          "hash": "edf05954393728053ae1ea4ec8470433e2059e3eeafd79ca732dc864b883a687",
+          "seo": {
+            "title": "机场榜单 - 机场订阅与VPN加速器客户端下载",
+            "keywords": "机场榜单,机场,机场订阅,VPN加速器,客户端下载,官网下载,加速器,机场套餐",
+            "description": "机场榜单提供专业机场订阅和VPN加速器客户端下载服务，多种套餐任选：基础版¥15/月、旗舰版支持5台设备、团队版企业定制。快来体验稳定高速网络加速！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vwdcsnu.cn",
+    "host": "p-2e92fb22b0.vwdcsnu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "6c16cf7edd3cca4283526f5e7c57522420a6ef706c54c2ab6d33909b2a0dcbb0",
+    "sitemap.xml": "125455252d9d852794a02f2aa08a59c14f42e85d14f098e48d8375fb2eb2e1a7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "af240d0ce01327f91b30b92b85462937f34ac82cc6ad03ca888961d90c6ac0b7",
+    "robots.txt": "78e8775523a63b8210a935e1909e4ac850690664706cbfac1fcc58548a341696",
+    "fb199eb9064782b464a159655d907757.txt": "95aa19c4b10876258e69de96158c2f46e8e6715444c34a9e4beeb83f79dfeadc"
+  },
+  "revision": "245d022f6fa6518755e29ec6c42471e44e90f20f6124e82201d47511e0e1f193"
+}
